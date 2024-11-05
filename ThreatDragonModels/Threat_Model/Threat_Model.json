@@ -375,7 +375,14 @@
               "providesAuthentication": false,
               "threats": []
             },
-            "zIndex": 15
+            "zIndex": 15,
+            "tools": {
+              "items": [
+                "boundary",
+                "button-remove"
+              ],
+              "name": null
+            }
           },
           {
             "position": {
